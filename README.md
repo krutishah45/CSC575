@@ -17,3 +17,17 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
+
+# Candidate Projects
+
+Paul:
+1. https://github.com/CompuIves/codesandbox-client
+-	The project is a online coding environment for people to build web applications on browsers.
+
+
+2. https://github.com/discourse/discourse (Not to be confused with Discord, which is NOT open source)
+-	It is a 100% open source community platform for communication, similar to apps like Microsoft Teams and Discord (neither of which are open source, even despite the latter having a similar name).
+
+3. https://github.com/processing/p5.js
+-	This is a javascript playground, primarily marketed for design or game development purposes.
+-	It is free and open source, and allows people to create code / amazing designs without having to download any specialized software.
