@@ -37,3 +37,7 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 6. [VS Code](https://github.com/microsoft/vscode)
 - A robust and flexible code editor
 - An incredibly popular repo to work on, making the ideal choice to start out with
+
+7. [Codetribute](https://codetribute.mozilla.org/)
+- A site dedicated to finding issues for new open-source developers via Mozilla products.
+- This is perfect for us as new developers because its highly organized and tailored to people like us 
