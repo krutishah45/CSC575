@@ -25,5 +25,7 @@ Pretty welcoming, there is a discord community server.
 #### Personal Interests
 I found this project interesting since I never thought about using Discord in the terminal. It is also developed with Go and I have never used the programming language and felt interesting to see how Go projects work.
 #### Skills Match
+Discord, C (eventhough its written in Go, Go has similar syntax to C).
 
 #### Other
+I would consider working on this project since its well documented, the only reason I wouldn't would be the fact it is written in Go and I would have to be learning the project, while also learning the programming language.

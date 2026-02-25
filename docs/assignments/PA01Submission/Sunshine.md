@@ -23,5 +23,7 @@ Very welcoming, the README is very extensive, it has Feature Compatibility secti
 This project was interesting since I am always lookng for options to remote into my PC, and this project looked promising to make this happen. 
 
 #### Skills Match
+C++, HTML, Shell.
 
 #### Other
+README is extensive, only thing that would take me away is C++, since I haven't really worked with C++ at a large project scale, I have only used it in Unreal Engine.
