@@ -41,3 +41,7 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 7. [Codetribute](https://codetribute.mozilla.org/)
 - A site dedicated to finding issues for new open-source developers via Mozilla products.
 - This is perfect for us as new developers because its highly organized and tailored to people like us 
+
+8. [Aseprite](https://github.com/aseprite/aseprite)
+- A 2D pixel art and animation editor
+- Looks like a super fun opportunity to learn more about C++ through pixel art
