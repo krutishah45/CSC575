@@ -12,7 +12,7 @@ https://godotengine.org/
 Godot is a game engine used in the creation of 2D and 3D games. It offers many tools including a visual editor, scripting with GDScript, C#, and C++, scene system, animation tool and many more. It also allows for development of games on a plethora of platforms including Windows, macOS, Linux, Android, and iOS.
 
 ## Target User Community:
-Godot targets game devlopers ranging from indie developers to small studios. This is the game engine for anyone looking for a free, flexible experience.
+Godot targets game devlopers ranging from indie developers to small studios. This is the game engine for anyone looking for a free, flexible experience. It's user-friendly editor, visual scripting, and open-source nature allows users to quickly and effectively create and deploy professional looking games.
 
 ## Activity:
 Godot is very active. Updates across all repositories were all made in the last 24 hours, there was a release last week, over 3,000 contributors, and over 5,000 issues with the latest one opened 10 minutes ago as I am writing this. 

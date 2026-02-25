@@ -30,7 +30,6 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 -	This is a javascript playground, primarily marketed for design or game development purposes.
 -	It is free and open source, and allows people to create code / amazing designs without having to download any specialized software.
 
-5. https://github.com/godotengine 
-- [Godot Engine](https://github.com/godotengine)
+5. [Godot Engine](https://github.com/godotengine)
 - A free game engine that offers a multitude of game development toolkits
 - I believe this to be an excellent find because it offers great documentation and a loving community that will help any newcomers
