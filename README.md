@@ -33,3 +33,7 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 5. [Godot Engine](https://github.com/godotengine)
 - A free game engine that offers a multitude of game development toolkits
 - I believe this to be an excellent find because it offers great documentation and a loving community that will help any newcomers
+
+6. [VS Code](https://github.com/microsoft/vscode)
+- A robust and flexible code editor
+- An incredibly popular repo to work on, making the ideal choice to start out with
