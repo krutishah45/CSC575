@@ -31,3 +31,6 @@ JS, HTML which I know.
 
 ## Other:
 a good chunk uses Markdown, this sounds like something I could learn (possibly formatting).
+
+## Aleena: 
+I would be ok working on this because I know JavaScript and HTML.

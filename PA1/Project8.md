@@ -31,3 +31,6 @@ Aseprite is primarily made using C++. As I mentioned in a previous project descr
 
 ## Other:
 N/A
+
+## Aleena:
+Same as Godot. This would be cool to work on, and I want to learn C++. 

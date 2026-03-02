@@ -31,3 +31,6 @@ This site offers a wide range of issues all organized by different languanges. T
 
 ## Other:
 An excellent place to start
+
+## Aleena:
+This would be cool, especially since it has options. I know Java and HTML/CSS, so it could be a nice safety net to fall back on if I tried learning C++ and didn't like it or wasn't doing well with it. 

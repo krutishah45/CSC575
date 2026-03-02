@@ -31,3 +31,6 @@ VS Code is primarily made in Typescript which I am fairly familiar with, but I c
 
 ## Other:
 Its a very popular repo and it has corprate backing giving it strong stability and community involvement.
+
+## Aleena: 
+I'm not opposed to learning Typescript, but I've never used it before, and I feel like I have more reason to learn C++ than Typescript, so if I'm going to work on something in a language I haven't used before I'd gravitate toward something in C++.
