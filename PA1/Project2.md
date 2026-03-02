@@ -31,3 +31,6 @@ JS, HTML, CSS, SCSS
 
 ## Other:
 This Project mostly uses ruby on rails which I don't know
+
+## Aleena:
+I would be fine working on this, I know JS, HTML, and CSS

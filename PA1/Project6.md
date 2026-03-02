@@ -32,4 +32,116 @@ VS Code is primarily made in Typescript which I am fairly familiar with, but I c
 ## Other:
 Its a very popular repo and it has corprate backing giving it strong stability and community involvement.
 
-Paul Zegarek - This could be a very insightful and interesting project to work on. Suprised its open source. It should be easy to work on since it uses Typescript for most of the code with some CSS, JS and HTML.
+### Aleena: 
+I'm not opposed to learning Typescript, but I've never used it before, and I feel like I have more reason to learn C++ than Typescript, so if I'm going to work on something in a language I haven't used before I'd gravitate toward something in C++.
+
+### Paul:
+This could be a very insightful and interesting project to work on. Suprised its open source. It should be easy to work on since it uses Typescript for most of the code with some CSS, JS and HTML.
+
+# Project Review
+
+## Getting Started
+   
+### Documents
+[README](https://github.com/microsoft/vscode/blob/main/README.md)
+[CONTRIBUTING](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
+[Templates for requesting features/reporting bugs](https://github.com/microsoft/vscode/tree/main/.github/ISSUE_TEMPLATE)
+The README is the big ticket here. It has many links and tutorials of what to contribute, how to install, how to request for features or bug fixes, etc. 
+
+### Code of Conduct
+[CODE OF CONDUCT](https://opensource.microsoft.com/codeofconduct/)
+Through this code of conduct, it paints the vscode contribution community as an inclusive, responsible place.
+   
+### User Installation
+[SETUP GUIDE](https://code.visualstudio.com/docs/setup/setup-overview)
+This link makes it trivial for setting up vscode regardless of platform or skill. 
+
+### Developer Installation
+[CONTRIBUTION GUIDE](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+
+
+### Organization
+...
+
+### Summary
+...
+
+## Community Communication
+- [Channel Name](https://...)
+  - **Purpose:**
+  - **Currency:**
+  - **Activity:**
+  - **Responsiveness:** 
+  - **Response Time:**
+  - **Content:**
+- [Channel Name](https://...)
+  - ...
+
+## Repositories
+- [Repository name](https://...)
+  - **Purpose:**
+  - **Created:**
+  - **License:**
+- [Repository name](https://...)
+  - ...
+
+## Issue Tracking
+- [Issue Tracker](https://...)
+  - **Volume:** 
+  - **Currency:**
+    - Last Day:
+    - Last Week:
+    - Last Month:
+    - Last 6 Months:
+  - **Activity:**
+    - Last Day:
+    - Last Week:
+    - Last Month:
+    - Last 6 Months:
+  - **Beginner Issues:**
+    - Labels: 
+    - Currency:
+      - Last Week:
+      - Last Month:
+      - Last 6 Months:
+    - Resolution: 
+      - Last Week:
+      - Last Month:
+      - Last 6 Months:
+    - Approachability: 
+    - Summary:
+
+## Pull/Merge Requests
+- **Volume:**
+- **Currency:**
+  - Last Week:
+  - Last Month:
+  - Last 6 Months: 
+- **Activity:**
+  - Last Week:
+  - Last Month:
+  - Last 6 Months:
+- **Resolution:**
+  - Last Week:
+  - Last Month:
+  - Last 6 Months:
+- **Contributors:**
+  - Last Month:
+  - Last Year:
+- **New Contributors:**
+  - Last Month:
+  - Last Year:
+- **Summary:**
+
+## Tools/Languages/Libraries/Frameworks:
+- **Tools:**
+  - ...
+- **Languages:**
+  - ...
+- **Application Libraries/Frameworks:**
+  - ...
+- **Testing Libraries/Frameworks:**
+  - ...
+- **Summary:**
+   
+## Assessment

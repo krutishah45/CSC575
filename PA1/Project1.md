@@ -31,3 +31,6 @@ Mostly Javascript, some typescript. Few is HTML and CSS
 
 ## Other:
 There is a framework called Handlebars, not sure what this is for
+
+## Aleena:
+I would be fine working on this because I have used Javascript before.
