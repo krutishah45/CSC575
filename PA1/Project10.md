@@ -32,3 +32,5 @@ I have experience working in C#, and that is the primary language Osu is coded i
 
 ## Other: 
 N/A
+
+Paul Zegarek- I don't think this would be a good start for a CSC575 class since I would need to get familiar with OSU and C#, and there really aren't any good first issues.

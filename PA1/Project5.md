@@ -31,3 +31,5 @@ Godot is written primarily in C++. I have very basic understanding in C++ but am
 
 ## Other:
 Godot’s modular design allows contributors to focus on specific systems (physics, rendering, UI, etc.).
+
+Paul - I would need to familiarize myself with C++ to work on this (I am also taking CSC530 Embedded systems which does give me SOME exposure to C++).

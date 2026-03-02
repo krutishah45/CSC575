@@ -31,3 +31,5 @@ This site offers a wide range of issues all organized by different languanges. T
 
 ## Other:
 An excellent place to start
+
+Paul Zegarek- I can agree here, there are many options to contribute. As for coding wise it should be easy as most code is in JS.

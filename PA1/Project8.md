@@ -31,3 +31,5 @@ Aseprite is primarily made using C++. As I mentioned in a previous project descr
 
 ## Other:
 N/A
+
+Paul Zegarek- I feel like since most of code is in C++ anyone who isn't familiar with language might end up working for a longer period of time, and right now there is only ONE good first issue that is currently.

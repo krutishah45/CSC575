@@ -31,3 +31,5 @@ VS Code is primarily made in Typescript which I am fairly familiar with, but I c
 
 ## Other:
 Its a very popular repo and it has corprate backing giving it strong stability and community involvement.
+
+Paul Zegarek - This could be a very insightful and interesting project to work on. Suprised its open source. It should be easy to work on since it uses Typescript for most of the code with some CSS, JS and HTML.

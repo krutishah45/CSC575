@@ -31,4 +31,4 @@ I looked at working on Blender because it is a popular software in the game desi
 Blender is primarily coded in C++ and Python. I have no C++ experience and very little Python experience, but they are both languages I have been wanting to gain more experience in. 
 
 ## Other: 
-N/A
+Paul - I would need to be familiar with C++ in order to work with blender
