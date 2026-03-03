@@ -93,10 +93,10 @@ Based on the details provided, FreeCodeCamp seems to be a welcoming and a user-f
   - Last Month: 26
   - Last Year: 44
 - **New Contributors:**
-  - Last Month:
-  - Last Year:
+  - Last Month: Unable to find
+  - Last Year: Unable to find
 - **Summary:**
-
+  This project is maintained by both maintainers and contributors and pretty frequent with their commits and issues. Makes me feel optimal for getting started with a project like this.
 ## Tools/Languages/Libraries/Frameworks:
 - **Tools:**
   - node.js: familiar
@@ -113,5 +113,6 @@ Based on the details provided, FreeCodeCamp seems to be a welcoming and a user-f
   - Jest: Unfamiliar
   - React Testing Library: Unfamiliar
 - **Summary:**
-   
+  Despite unknowledgable about the testing libraries/frameworks, I am very ineterested about learning docker as it is a powerful tool for development. 
 ## Assessment
+I'm eager to work on this project given its high rate of participation as well their library choices overall. There is also a well documented page of how to contribute as well as a welcoming community in their discord which leads me to believe starting here would be a good idea.
