@@ -63,15 +63,20 @@ Is there out of date or redundant information that may be confusing? Yes, organi
 This project allows anyone to make realistic animations, graphics, games using JS.
 
 ## Community Communication
-- [Forum](https://...)
-  - **Purpose:**
-  - **Currency:**
-  - **Activity:**
-  - **Responsiveness:** 
-  - **Response Time:**
-  - **Content:**
-- [Discord](https://...)
-  - ...
+- [Forum](https://discourse.processing.org/c/p5js)
+  - **Purpose:** Main forum for P5JS
+  - **Currency:** less than 1 day
+  - **Activity:** 4 messages last day in one of channels, most are split into specialized categories.
+  - **Responsiveness:** likely
+  - **Response Time:** Possibly within couple hours. Less frequent than discord.
+  - **Content:** Usually text.
+- [Discord](https://discord.gg/SHQ8dH25r9)
+  - **Purpose:** Essentially another forum for P5JS
+  - **Currency:** 1 day
+  - **Activity:** Hard to tell as there are multiple channels but there are occasional updates on some and very frequent on others
+  - **Responsiveness:** should be likely but varies on channel.
+  - **Response Time:** Should be within a day.
+  - **Content:** There are some about sharing work, community discussion
 
 ## Repositories
 - [Repository name](https://github.com/processing/p5.js)
