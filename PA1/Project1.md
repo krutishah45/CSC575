@@ -109,7 +109,7 @@ I would say this repo should be easy to work on as there are a bunch of good fir
     - Summary: Likely may not be the best first project
 
 ## Pull/Merge Requests
-- **Volume:**
+- **Volume:** 50
 - **Currency:**
   - Last Week: 0
   - Last Month: 1
@@ -128,7 +128,7 @@ I would say this repo should be easy to work on as there are a bunch of good fir
 - **New Contributors:**
   - Last Month: 
   - Last Year: 
-- **Summary:**
+- **Summary:** I would say this could be one of the easier projects you could work with if you know web development. I believe if you don't know web development, then this might not be for you.
 
 ## Tools/Languages/Libraries/Frameworks:
 - **Tools:**
