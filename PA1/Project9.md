@@ -87,6 +87,9 @@ I think it might be a little confusing at first to determine which resources are
   - **Response Time:**
     It's hard to tell, there are too many threads.
   - **Content:**
+    Varies by channel, but interactions seem respectful and helpful.
+- **Summary:**
+  The communication channels were difficult to assess. I did not want to join the Discord, but it does seem to be their main source of communication. I am confident that the Discord would be more active and would probably generate quick responses to questions.
 
 
 ## Repositories
