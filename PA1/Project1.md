@@ -35,6 +35,9 @@ There is a framework called Handlebars, not sure what this is for
 ## Aleena:
 I would be fine working on this because I have used Javascript before.
 
+## Maximus:
+As someone who wants to practice their web dev skills, I believe this to be a very interesting project we could work on.
+
 # Project Review
 
 ## Getting Started

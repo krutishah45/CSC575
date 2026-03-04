@@ -35,6 +35,9 @@ a good chunk uses Markdown, this sounds like something I could learn (possibly f
 ## Aleena: 
 I would be ok working on this because I know JavaScript and HTML.
 
+## Maximus: 
+I would also be ok working on this because it seems very doable.
+
 # Project Review
 
 ## Getting Started

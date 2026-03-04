@@ -32,3 +32,4 @@ Blender is primarily coded in C++ and Python. I have no C++ experience and very 
 
 ## Other: 
 Paul - I would need to be familiar with C++ in order to work with blender
+Maximus - I think this would be a very interesting project to work on as I love game dev and I really want to practice C++.

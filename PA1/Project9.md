@@ -36,3 +36,6 @@ They use C++, Lua, and WML the most. I have never used either but have interest 
 N/A
 
 This project, being a game requires knowledge of C++ but I feel like since there are a lot of good number first issues out there, you can easily pick one of the issues and start working on it.
+
+## Maximus: 
+Working on a game for this could be very interesting. C++ is a skill I want to practice more so I'd be happy to work on this.
