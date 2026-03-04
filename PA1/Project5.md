@@ -67,81 +67,107 @@ Most of the organization is fairly simple to find with a few exceptions. A lot o
 I believe this to be an easy project to start on based solely on the documentation for now. It seems like the documentation was made specifically with welcoming people into the project in mind. All of the information needed is available and relatively easy to find.
 
 ## Community Communication
-- [Channel Name](https://...)
-  - **Purpose:**
-  - **Currency:**
-  - **Activity:**
-  - **Responsiveness:** 
-  - **Response Time:**
-  - **Content:**
-- [Channel Name](https://...)
-  - ...
+- [Discord](https://discord.com/invite/godotengine)
+  - **Purpose:** General socializing + a place for posting announcements. This is mostly for using the product rather than contributing to it
+  - **Currency:** A minute ago, this channel is used quite frequently
+  - **Activity:** There are too many to count, people have a lot of active conversations and can even join calls to talk to one another
+  - **Responsiveness:** Very likely, people are very active on the discord
+  - **Response Time:** It usually doesn't take long to get a response (<1 minute sometimes)
+  - **Content:** The content is usually pretty informal but still polite and helpful. Again, this discord is mostly for those using the product moreso than developing for it.
+- [Contributors' Chat](https://chat.godotengine.org/home)
+  - **Purpose:** A place where contributor's can go to discuss contributing to the project.
+  - **Currency:** Earlier this morning, this channel is also used pretty frequently
+  - **Activity:** There are too many to count here as well, this chatroom is used by a lot of people very frequently
+  - **Responsiveness:** Very likely, this chatroom is very active
+  - **Response Time:** The response times in this channel are a little bit slower than the discord but you're still gonna have people responding within a couple of hours
+  - **Content:** Responses here are a bit more formal than the discord but are equally as helpful
+
+  ### Summary: 
+  The channels that Godot uses are very helpful for new people to the platform. There are way more than just the two main ones I have listed and they are all designed to help new people. 
 
 ## Repositories
-- [Repository name](https://...)
-  - **Purpose:**
-  - **Created:**
-  - **License:**
-- [Repository name](https://...)
-  - ...
+- [godot](https://github.com/godotengine/godot)
+  - **Purpose:** The main repository for Godot Engine
+  - **Created:** January 4, 2014
+  - **License:** MIT License
+- [godot-docs](https://github.com/godotengine/godot-docs)
+  - **Purpose:** Provides documentation for the project
+  - **Created:** 2014-2015
+  - **License:** Creative Commons Public License
+- [godot-demo-projects](https://github.com/godotengine/godot-demo-projects)
+  - **Purpose:** Demonstration and template projects
+  - **Created:** 2019-2020
+  - **License:** MIT License
 
 ## Issue Tracking
-- [Issue Tracker](https://...)
-  - **Volume:** 
+- [Issue Tracker](https://github.com/godotengine/godot/issues)
+  - **Volume:** 12,992
   - **Currency:**
-    - Last Day:
-    - Last Week:
-    - Last Month:
-    - Last 6 Months:
+    - Last Day: 9
+    - Last Week: 73
+    - Last Month: Too many to count
+    - Last 6 Months: Too many to cound
   - **Activity:**
-    - Last Day:
-    - Last Week:
-    - Last Month:
-    - Last 6 Months:
+    - Last Day: 4
+    - Last Week: 48
+    - Last Month: Too many to count
+    - Last 6 Months: Too many to count
   - **Beginner Issues:**
-    - Labels: 
+    - Labels: good first issue
     - Currency:
-      - Last Week:
-      - Last Month:
-      - Last 6 Months:
+      - Last Week: 0
+      - Last Month: 0
+      - Last 6 Months: 0
     - Resolution: 
-      - Last Week:
-      - Last Month:
-      - Last 6 Months:
-    - Approachability: 
-    - Summary:
+      - Last Week: 0
+      - Last Month: 0
+      - Last 6 Months: 0
+    - Approachability: The language is a little tough to follow but I'm sure with more experience in the project we can figure it out.
+    - Summary: For the most part, Godot might be a tricky repo to get beginner issues from, at least from just the issue tracker. There aren't many good first issue tags and the ones that are still open are very old. 
 
 ## Pull/Merge Requests
-- **Volume:**
+- **Volume:** 4,755
 - **Currency:**
-  - Last Week:
-  - Last Month:
-  - Last 6 Months: 
+  - Last Week: 113
+  - Last Month: Too many to count
+  - Last 6 Months: Too many to count
 - **Activity:**
-  - Last Week:
-  - Last Month:
-  - Last 6 Months:
+  - Last Week: 83
+  - Last Month: Too many to count
+  - Last 6 Months: Too many to count
 - **Resolution:**
-  - Last Week:
-  - Last Month:
-  - Last 6 Months:
+  - Last Week: 24
+  - Last Month: Too many to count
+  - Last 6 Months: Too many to count
 - **Contributors:**
-  - Last Month:
-  - Last Year:
+  - Last Month: Too many to count
+  - Last Year: Too many to count
 - **New Contributors:**
-  - Last Month:
-  - Last Year:
-- **Summary:**
+  - Last Month: ?
+  - Last Year: ?
+- **Summary:** This repo is very active. Even while I write this at 10:30 in the morning people are actively working on bug fixes and new features and being maintained. 
+
 
 ## Tools/Languages/Libraries/Frameworks:
 - **Tools:**
-  - ...
+  - SCons: Never heard of it
+  - Python: Used it
+  - Git: Used it
 - **Languages:**
-  - ...
+  - C++ (85.8%): Have used but not confident
+  - C# (3.2%): Confident
+  - C (3%): Have used but not confident
+  - Java (2.8%): Confident
+  - GLSL (1.7%): Never heard of it
+  - Objective-C++ (1.1%): Never heard of it
+  - Other (2.4%)
 - **Application Libraries/Frameworks:**
-  - ...
+  - Vulkan: Heard of it
+  - OpenGL: Heard of it
+  - Bullet Physics: Never heard of it
 - **Testing Libraries/Frameworks:**
-  - ...
-- **Summary:**
+  - Custom C++ Test Framework: Unfamiliar
+- **Summary:** A lot of skills here I am unfamiliar with but am willing to learn. C++ is the standout here that I most want to sink my teeth into.
    
 ## Assessment
+I think overall this is a pretty decent repo to start working on. While some issues may be harder to tackle early on, we have the benefit of the various, highly-active discussion channels to help guide us. I think this would be an interesting project to work on because a lot of us want to brush up on C++ and working with a game engine could be really informative for at least me and Aleena.  
