@@ -58,7 +58,7 @@ This link makes it trivial for setting up vscode regardless of platform or skill
 
 ### Developer Installation
 [CONTRIBUTION GUIDE](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
-
+This is vscode's contribution wiki. It lists a lot of information about how to start developing. 
 
 ### Organization
 ...
