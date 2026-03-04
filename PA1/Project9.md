@@ -39,3 +39,136 @@ This project, being a game requires knowledge of C++ but I feel like since there
 
 ## Maximus: 
 Working on a game for this could be very interesting. C++ is a skill I want to practice more so I'd be happy to work on this.
+
+## Getting Started
+   
+### Documents
+https://wiki.wesnoth.org/Git_for_Wesnoth_Crash_Course
+https://wiki.wesnoth.org/HackingWesnoth
+https://wiki.wesnoth.org/CodingStandards
+https://wiki.wesnoth.org/PatchSubmissionGuidelines
+https://devdocs.wesnoth.org/
+https://wiki.wesnoth.org/ReferenceWML
+https://wiki.wesnoth.org/DeveloperResources
+All seem clear.
+
+### Code of Conduct
+https://forums.wesnoth.org/viewtopic.php?t=24277 
+This all seems reasonable to me.
+https://www.wesnoth.org/constitution/
+I also found this which seems to be more geared toward just contributors, but the other one is linked on the GitHub, so I'm kind of confused on which one is the code of conduct and which one would be most relevant. 
+   
+### User Installation
+https://github.com/wesnoth/wesnoth?tab=readme-ov-file#installing
+Easy
+
+### Developer Installation
+https://wiki.wesnoth.org/WesnothRepository
+Reasonable. It seems like standard Git setup stuff and has clear instructions.
+
+### Organization
+A little disorganized, to be honest. The resources are clear once you find them, but I feel like a lot of stuff isn't always what you think it is based on the name of the resource. It also was hard to find where they put stuff that is DISTINCTIVELY for developers and not just users of the game who maybe want to mod it. I would be happier if more of their important links were on the GitHub README, instead of having to hunt for them on the project website. 
+
+### Summary
+I think it might be a little confusing at first to determine which resources are needed in specific moments and to find them, but I believe that once those resources were bookmarked, they would be clear and easy to follow. 
+
+## Community Communication
+- [Discord](https://discord.gg/battleforwesnoth)
+  - I can't get the requested info without joining the Discord and I don't wish to join it until I know I would actually be working on the project, since it seems to be mainly for developers.
+- [Forums](https://forums.wesnoth.org/)
+  - **Purpose:**
+    There are several channels on here with different purposes, including art, coding, writing, music, multiplayer, ideas, and more.
+  - **Currency:**
+    Varies by channel. Most were active in January/February, some were active yesterday. 
+  - **Activity:**
+    It varies by thread and channel. I can't reasonably calculate this.
+  - **Responsiveness:** 
+    It's really hard to tell because there are so many threads.
+  - **Response Time:**
+    It's hard to tell, there are too many threads.
+  - **Content:**
+
+
+## Repositories
+- [GitHub](https://github.com/wesnoth/wesnoth)
+  - **Purpose:** This is how they share their changes.
+  - **Created:** I can't find this.
+  - **License:** https://github.com/wesnoth/wesnoth?tab=GPL-2.0-1-ov-file
+
+## Issue Tracking
+- [Issue Tracker](https://github.com/wesnoth/wesnoth/issues)
+  - **Volume:** 1347
+  - **Currency:**
+    - Last Day: 0
+    - Last Week: 2
+    - Last Month: 11
+    - Last 6 Months: Too many to count
+  - **Activity:**
+    - Last Day: 4
+    - Last Week: 12
+    - Last Month: 42
+    - Last 6 Months: Too many to count
+  - **Beginner Issues:**
+    - Labels: Good first issue
+    - Currency:
+      - Last Week: 0
+      - Last Month: 0
+      - Last 6 Months: 2
+    - Resolution: 
+      - Last Week: 0
+      - Last Month: 1
+      - Last 6 Months: 4
+    - Approachability: The issues seem to be described well. I do not understand the provided code snippets yet because I haven't learned C++, but that would be the goal in working on this. Also, the more recent issues don't have comments, but I looked at some older ones that are still open (there are a LOT of these) and the comments seem respectful and helpful. 
+    - Summary: Yes, there are good beginner issues. They don't seem to be opened that frequently, but they are open for a long time once they are opened. The community seems willing to help. 
+
+## Pull/Merge Requests
+- **Volume:** 107
+- **Currency:**
+  - Last Week: 6
+  - Last Month: 13
+  - Last 6 Months: 42
+- **Activity:**
+  - Last Week: 13
+  - Last Month: 36
+  - Last 6 Months: Too many to count
+- **Resolution:**
+  - Last Week: 5
+  - Last Month: Too many to count (I also can't get it to sort properly)
+  - Last 6 Months: Too many to count
+- **Contributors:**
+   I have no idea how to figure this out. They have a lot of contributors.
+- **New Contributors:**
+   No idea how to find this either.
+- **Summary:**
+  The project seems to be actively contributed to by many contributors and is consistently updated. 
+
+## Tools/Languages/Libraries/Frameworks:
+- **Tools:**
+  - Not really sure where to find this...
+- **Languages:**
+  - C++ - Heard of it
+    72.5%
+    
+  - Lua - Heard of it
+    11.8%
+    
+  - Python - Used it (a long time ago)
+    8.8%
+    
+  - Emacs Lisp - Unfamiliar
+    2.1%
+    
+  - Java - Expert
+    1.7%
+    
+  - CMake - Unfamiliar
+    0.9%
+
+- **Application Libraries/Frameworks:**
+  - I can't find this.
+- **Testing Libraries/Frameworks:**
+  - I can't find this.
+- **Summary:**
+   I have worked with some of the languages Git says they use occasionally but the others I have not worked with. I want to learn C++. 
+## Assessment
+I think this could be interesting but we maybe could find something less confusing to navigate. I think it would be difficult to figure out where some of their documentation is. Finding good first issues would be fine, and getting help from the community would also work out. I do think that there is a risk of us running into more stuff we don't know how to do because I couldn't find anything about the frameworks or tools, just the languages listed on Git. 
