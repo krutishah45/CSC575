@@ -58,11 +58,14 @@ go run .
 ### P5js
 - **Team Members Assigned:** Zegarek, Paul
 - **Installation Documents:**
-  - [Doc 1](link)
+  - [README](https://github.com/processing/p5.js/blob/main/README.md)
+  - [Contributing](https://github.com/processing/p5.js/blob/main/CONTRIBUTING.md)
+  - [License](https://github.com/processing/p5.js/blob/main/license.txt)
 - **Repository Links:**
   - [Upstream Repo](https://github.com/processing/p5.js)
   - [Fork](https://github.com/PaulZ357/p5.js)
 - **Summary:**  
+I would say installation was straightforward, everything *appeared* to run great. However, I am a little unsure whether I would be able to get a local version of the actual p5js edit window you would see in browser where you type in JS code.
   
 ### FreeCodeCamp
 - **Team Members Assigned:** Horacio, Luis
