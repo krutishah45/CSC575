@@ -3,12 +3,14 @@
 ## Projects Considered
 
 ### Project 1: Discordo
-- **What it is:** Short description of the project.
-- **Why we considered it:** 2–4 sentences.
+- **What it is:** 
+Discordo is a lightweight, secure, and feature-rich Discord terminal client. Heavily work-in-progress, expect breaking changes.
+- **Why we considered it:** 
+We considered this project since it is written in Go and it's a new language for all of us. The installation and setup looked pretty straight forward. 
 - **Relevant Project Explorations / Reviews:**
-  - [Exploration 1](link)
-  - [Review 1](link)
-  - [Review 2](link)
+  - [Exploration 1](../PA01Submission/Discordo.md)
+  - [Review 1](../PA2Submission/Discordo.md)
+
 
 ### Project 2: P5.js
 - **What it is:** Short description.
@@ -28,21 +30,27 @@
 
 ## Install Spike
 
-### Disocrdo 
+### Discordo 
 - **Team Members Assigned:** Horacio
 - **Installation Documents:**
-  - [Developer setup guide](link)
-  - [Contribution guide](link)
-  - [Build instructions](link)
+  - [Developer setup guide](https://github.com/ayn2op/discordo)
+  - [Contribution guide](https://github.com/ayn2op/discordo)
+
+- **Build instructions:**
+
+```bash
+git clone https://github.com/ayn2op/discordo.git
+cd discordo
+go build .
+go run .
+```
+
 - **Repository Links:**
-  - [Upstream Repo](link)
-  - [Team Member Fork](link)
+  - [Upstream Repo](https://github.com/ayn2op/discordo)
+  - [Fork](https://github.com/horavaldesg/discordo)
 - **Summary:**  
   Write one solid paragraph covering:
-  - whether you successfully installed / built / ran it
-  - how clear the docs were
-  - how difficult it was
-  - what problems you hit
+  Installing was pretty straight forward. I just needed to install Go from [Go Website](https://go.dev/dl/) and make sure to restart vs code. I was able to successfully install and run it on both macOS and Windows. I did not run into any issues or problems. 
 
 ### [Project 2 Name]
 - **Team Members Assigned:** Name, Name
