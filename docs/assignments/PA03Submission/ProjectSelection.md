@@ -11,8 +11,11 @@
   - [Review 2](link)
 
 ### Project 2: P5.js
-- **What it is:** Short description.
+- **What it is:** It is a website that allows people to be creative by making JavaScript code. It can range from anything like art, animations and games.
+
 - **Why we considered it:** 2–4 sentences.
+It uses JavaScript and introduces a lot of people to coding and computer programming. I chose it because I believe it should be one of the repositories that allow me to work on stuff.
+
 - **Relevant Project Explorations / Reviews:**
   - [Exploration 1](link)
   - [Review 1](link)
