@@ -19,10 +19,10 @@
 
 ### Project 3: Free Code Camp
 - **What it is:** Short description.
-- **Why we considered it:** 2–4 sentences.
+- **Why we considered it:** Thought this is a powerful educational tool for software development and most compatible for all of us given our skillset.
 - **Relevant Project Explorations / Reviews:**
-  - [Exploration 1](link)
-  - [Review 1](link)
+  - [Exploration 1](../PA01Submission/FreeCodeCamp.md)
+  - [Review 1](../PA2Submission/FreeCodeCamp.md)
 
 ---
 
@@ -52,17 +52,17 @@
   - [Upstream Repo](link)
   - [Fork](link)
 - **Summary:**  
-  Paragraph here.
+  Installing this project on Mac was a different experience from installing on Windows. Horacio had installed the project on both Mac and Windows and found that installing this project on Mac was much easier and we had known this going into the installation process seeing that on the documentation, it was meant for development on linux/Mac.
 
-### [Project 3 Name]
-- **Team Members Assigned:** Name, Name
+### FreeCodeCamp
+- **Team Members Assigned:** Horacio, Luis
 - **Installation Documents:**
-  - [Doc 1](link)
+  - [Doc 1](https://contribute.freecodecamp.org/getting-started/#ui--client)
 - **Repository Links:**
-  - [Upstream Repo](link)
-  - [Fork](link)
+  - [Upstream Repo](https://github.com/freeCodeCamp/freeCodeCamp)
+  - [Fork](https://github.com/lgilbuena/freeCodeCamp)
 - **Summary:**  
-  Paragraph here.
+  Installing this project on Mac was a different experience from installing on Windows. Horacio had installed the project on both Mac and Windows and found that installing this project on Mac was much easier and we had known this going into the installation process seeing that on the documentation, it was meant for development on linux/Mac.
 
 ---
 
