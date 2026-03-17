@@ -3,12 +3,14 @@
 ## Projects Considered
 
 ### Project 1: Discordo
-- **What it is:** Short description of the project.
-- **Why we considered it:** 2–4 sentences.
+- **What it is:** 
+Discordo is a lightweight, secure, and feature-rich Discord terminal client. Heavily work-in-progress, expect breaking changes.
+- **Why we considered it:** 
+We considered this project since it is written in Go and it's a new language for all of us. The installation and setup looked pretty straight forward. 
 - **Relevant Project Explorations / Reviews:**
-  - [Exploration 1](link)
-  - [Review 1](link)
-  - [Review 2](link)
+  - [Exploration 1](../PA01Submission/Discordo.md)
+  - [Review 1](../PA2Submission/Discordo.md)
+
 
 ### Project 2: P5.js
 - **What it is:** It is a website that allows people to be creative by making JavaScript code. It can range from anything like art, animations and games.
@@ -21,11 +23,11 @@ It uses JavaScript and introduces a lot of people to coding and computer program
   - [Review 1](link)
 
 ### Project 3: Free Code Camp
-- **What it is:** Short description.
-- **Why we considered it:** 2–4 sentences.
+- **What it is:** Non-profit organization that offers a project-based interactive learning platform to learn coding, web development, data science, and AI. 
+- **Why we considered it:** Thought this is a powerful educational tool for software development and most compatible for all of us given our skillset.
 - **Relevant Project Explorations / Reviews:**
-  - [Exploration 1](link)
-  - [Review 1](link)
+  - [Exploration 1](../PA01Submission/FreeCodeCamp.md)
+  - [Review 1](../PA2Submission/FreeCodeCamp.md)
 
 ---
 
@@ -34,18 +36,24 @@ It uses JavaScript and introduces a lot of people to coding and computer program
 ### Discordo 
 - **Team Members Assigned:** Horacio
 - **Installation Documents:**
-  - [Developer setup guide](link)
-  - [Contribution guide](link)
-  - [Build instructions](link)
+  - [Developer setup guide](https://github.com/ayn2op/discordo)
+  - [Contribution guide](https://github.com/ayn2op/discordo)
+
+- **Build instructions:**
+
+```bash
+git clone https://github.com/ayn2op/discordo.git
+cd discordo
+go build .
+go run .
+```
+
 - **Repository Links:**
-  - [Upstream Repo](link)
-  - [Team Member Fork](link)
+  - [Upstream Repo](https://github.com/ayn2op/discordo)
+  - [Fork](https://github.com/horavaldesg/discordo)
 - **Summary:**  
   Write one solid paragraph covering:
-  - whether you successfully installed / built / ran it
-  - how clear the docs were
-  - how difficult it was
-  - what problems you hit
+  Installing was pretty straight forward. I just needed to install Go from [Go Website](https://go.dev/dl/) and make sure to restart vs code. I was able to successfully install and run it on both macOS and Windows. I did not run into any issues or problems. 
 
 ### [Project 2 Name]
 - **Team Members Assigned:** Name, Name
@@ -55,17 +63,16 @@ It uses JavaScript and introduces a lot of people to coding and computer program
   - [Upstream Repo](link)
   - [Fork](link)
 - **Summary:**  
-  Paragraph here.
-
-### [Project 3 Name]
-- **Team Members Assigned:** Name, Name
+  
+### FreeCodeCamp
+- **Team Members Assigned:** Horacio, Luis
 - **Installation Documents:**
-  - [Doc 1](link)
+  - [Doc 1](https://contribute.freecodecamp.org/getting-started/#ui--client)
 - **Repository Links:**
-  - [Upstream Repo](link)
-  - [Fork](link)
+  - [Upstream Repo](https://github.com/freeCodeCamp/freeCodeCamp)
+  - [Fork](https://github.com/lgilbuena/freeCodeCamp)
 - **Summary:**  
-  Paragraph here.
+  Installing this project on Mac was a different experience from installing on Windows. Horacio had installed the project on both Mac and Windows and found that installing this project on Mac was much easier and we had known this going into the installation process seeing that on the documentation, it was meant for development on linux/Mac.
 
 ---
 
