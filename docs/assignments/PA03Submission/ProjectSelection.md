@@ -83,9 +83,9 @@ I would say installation was straightforward, everything *appeared* to run great
 
 | Project Name | Community | Complexity | Activity | Approachability | Appeal |
 |---|---:|---:|---:|---:|---:|
-| P1: Project Name | 1 | 2 | 1 | 2 | 1 |
-| P2: Project Name | 2 | 1 | 3 | 1 | 2 |
-| P3: Project Name | 3 | 3 | 2 | 3 | 3 |
+| P1: Discordo | 3 | 1 | 3 | 1 | 2 |
+| P2: P5.js | 2 | 2 | 2 | 2 | 1 |
+| P3: Free Code Camp | 1 | 3 | 1 | 3 | 3 |
 
 ## Rationale
 
@@ -108,7 +108,7 @@ Comparative paragraph explaining which project your team is most excited about a
 
 ## Project Selection
 
-- **Project:** [Chosen Project Name]
+- **Project:** P5.js
 
 ### Rationale
 One paragraph explaining why your team chose it, including whether you weighted some dimensions more heavily than others.
