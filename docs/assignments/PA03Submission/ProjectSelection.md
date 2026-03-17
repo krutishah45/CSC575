@@ -28,7 +28,7 @@
 
 ## Install Spike
 
-### Disocrdo 
+### Discordo 
 - **Team Members Assigned:** Horacio
 - **Installation Documents:**
   - [Developer setup guide](link)
