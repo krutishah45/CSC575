@@ -20,7 +20,7 @@ We considered this project since it is written in Go and it's a new language for
   - [Review 1](link)
 
 ### Project 3: Free Code Camp
-- **What it is:** Short description.
+- **What it is:** Non-profit organization that offers a project-based interactive learning platform to learn coding, web development, data science, and AI. 
 - **Why we considered it:** Thought this is a powerful educational tool for software development and most compatible for all of us given our skillset.
 - **Relevant Project Explorations / Reviews:**
   - [Exploration 1](../PA01Submission/FreeCodeCamp.md)
@@ -60,8 +60,7 @@ go run .
   - [Upstream Repo](link)
   - [Fork](link)
 - **Summary:**  
-  Installing this project on Mac was a different experience from installing on Windows. Horacio had installed the project on both Mac and Windows and found that installing this project on Mac was much easier and we had known this going into the installation process seeing that on the documentation, it was meant for development on linux/Mac.
-
+  
 ### FreeCodeCamp
 - **Team Members Assigned:** Horacio, Luis
 - **Installation Documents:**
