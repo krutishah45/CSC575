@@ -19,8 +19,8 @@ We considered this project since it is written in Go and it's a new language for
 It uses JavaScript and introduces a lot of people to coding and computer programming. I chose it because I believe it should be one of the repositories that allow me to work on stuff.
 
 - **Relevant Project Explorations / Reviews:**
-  - [Exploration 1](link)
-  - [Review 1](link)
+  - [Exploration 1](../PA01Submission/p5Js.md)
+  - [Review 1](../PA2Submission/p5Js.md)
 
 ### Project 3: Free Code Camp
 - **What it is:** Non-profit organization that offers a project-based interactive learning platform to learn coding, web development, data science, and AI. 
