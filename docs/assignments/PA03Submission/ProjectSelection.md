@@ -55,13 +55,13 @@ go run .
   Write one solid paragraph covering:
   Installing was pretty straight forward. I just needed to install Go from [Go Website](https://go.dev/dl/) and make sure to restart vs code. I was able to successfully install and run it on both macOS and Windows. I did not run into any issues or problems. 
 
-### [Project 2 Name]
-- **Team Members Assigned:** Name, Name
+### P5js
+- **Team Members Assigned:** Zegarek, Paul
 - **Installation Documents:**
   - [Doc 1](link)
 - **Repository Links:**
-  - [Upstream Repo](link)
-  - [Fork](link)
+  - [Upstream Repo](https://github.com/processing/p5.js)
+  - [Fork](https://github.com/PaulZ357/p5.js)
 - **Summary:**  
   
 ### FreeCodeCamp
