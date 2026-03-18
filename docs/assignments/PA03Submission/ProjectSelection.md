@@ -115,7 +115,6 @@ Our team ultimately chose P5.js because it provided the best balance between app
 
 ### Install Estimate
 - Estimated hours for all team members to get set up: **1-2 hours**
-- Brief explanation of estimate.
 
 ### Knowledge Gaps
 - **Gap 1:** Not too much experience with Javascript (Horacio). 
