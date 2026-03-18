@@ -162,3 +162,13 @@ I believe the community forums for Vs Code can be a little hit or miss. While St
    
 ## Assessment
 I believe this project to be a hit or miss when it comes to a first Open Source project to work on. While it is incredibly active with a very supportive community, I believe the technologies used and the scope of the problems might lead to a difficult time working on this one.
+
+# Install Spike
+## Links:
+### Installation Docs
+- [Contributing Wiki](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+### Respository Links
+- [My Fork](https://github.com/riatmax/vscode)
+- [Upstream](https://github.com/microsoft/vscode/tree/main)
+### Summary:
+This project was super easy to get started but I believe that mostly came to me already having most of the requirements already. Vscode requires that your system has Node.js as well as a C/C++ compiler, both of which I already have installed. After that, it was as simple as forking and cloning.
