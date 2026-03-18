@@ -103,6 +103,7 @@ Discordo ranked as the most approachable project because its smaller scope, clea
 
 ### Appeal
 P5.js ranked highest in appeal because it allows for creative contributions related to visual programming, animations, and interactive experiences, which aligns with the team’s interest in building engaging and expressive software. Discordo ranked second since working with Go and terminal-based interfaces presents an interesting technical learning opportunity. Free Code Camp ranked lowest in appeal not because it lacks value, but because its contributions are often more structured around educational content, platform maintenance, and large-scale infrastructure rather than creative or experimental development.
+
 ---
 
 ## Project Selection
