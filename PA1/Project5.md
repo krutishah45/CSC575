@@ -171,13 +171,3 @@ I believe this to be an easy project to start on based solely on the documentati
    
 ## Assessment
 I think overall this is a pretty decent repo to start working on. While some issues may be harder to tackle early on, we have the benefit of the various, highly-active discussion channels to help guide us. I think this would be an interesting project to work on because a lot of us want to brush up on C++ and working with a game engine could be really informative for at least me and Aleena.  
-
-# Install Spike
-## Links:
-### Installation Docs
-- [Contributing Wiki](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
-### Respository Links
-- [My Fork](https://github.com/riatmax/godot)
-- [Upstream](https://github.com/godotengine/godot)
-### Summary:
-This project was relatively easy to piece together thanks to its convenient contributing wiki. While it is overwhelming with the amount of different information and options, if you take the time to read it, it has all the steps needed to build for development. No reaching out to the community required.
