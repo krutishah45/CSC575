@@ -16,8 +16,8 @@
 - Sundays @ 2pm
 
 ## Project Documents
-[Blender](Blender.md)
-[Godot](Godot.md)
-[VSCode](VSCode.md)
-[Ranking](ProjectRanking.md)
-[Selection](ProjectSelection.md)
+- [Blender](Blender.md)
+- [Godot](Godot.md)
+- [VSCode](VSCode.md)
+- [Ranking](ProjectRanking.md)
+- [Selection](ProjectSelection.md)
