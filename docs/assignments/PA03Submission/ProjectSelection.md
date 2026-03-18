@@ -120,7 +120,9 @@ Our team ultimately chose P5.js because it provided the best balance between app
 - **Gap 1:** Not too much experience with Javascript (Horacio). 
 - **Gap 2:** Not very familiar with this project (Luis)
 - **Gap 3:** Contributing to an Open Source for the first time.
+- **Gap 4:** Mocha for unit tests (Paul).
 
 ### Concerns
 - **Concern 1:** Finding first issues since there is not "first issue" label.
-- **Concern 2:** Testing with a local version of p5. 
+- **Concern 2:** Testing with a local version of p5.
+- **Concern 3:** Whether or not we are able to quickly merge changes from Pull Requests
