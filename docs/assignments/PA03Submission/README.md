@@ -1,8 +1,8 @@
 # Our Team
 ## Team Members
-Horacio
-Luis
-Paul
+- Horacio
+- Luis
+- Paul
 
 ## Meeting Times
 - Wednesday 3/11/26

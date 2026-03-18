@@ -15,7 +15,7 @@ We considered this project since it is written in Go and it's a new language for
 ### Project 2: P5.js
 - **What it is:** It is a website that allows people to be creative by making JavaScript code. It can range from anything like art, animations and games.
 
-- **Why we considered it:** 2–4 sentences.
+- **Why we considered it:** 
 It uses JavaScript and introduces a lot of people to coding and computer programming. I chose it because I believe it should be one of the repositories that allow me to work on stuff.
 
 - **Relevant Project Explorations / Reviews:**
@@ -52,7 +52,6 @@ go run .
   - [Upstream Repo](https://github.com/ayn2op/discordo)
   - [Fork](https://github.com/horavaldesg/discordo)
 - **Summary:**  
-  Write one solid paragraph covering:
   Installing was pretty straight forward. I just needed to install Go from [Go Website](https://go.dev/dl/) and make sure to restart vs code. I was able to successfully install and run it on both macOS and Windows. I did not run into any issues or problems. 
 
 ### P5js
@@ -90,20 +89,20 @@ I would say installation was straightforward, everything *appeared* to run great
 ## Rationale
 
 ### Community
-Comparative paragraph explaining why one project ranked better or worse than the others in terms of community.
+Free Code Camp ranked highest in community because it is a very large non-profit platform with thousands of contributors, learners, and maintainers actively supporting discussions, issues, and pull requests. This makes it easier to find help, documentation, and guidance when contributing. P5.js ranked in the middle since it also has a strong creative and educational community, but it is more niche compared to Free Code Camp’s broad audience. Discordo ranked lowest because it is a smaller, work-in-progress project with fewer contributors and less visible community interaction, which may make it harder to get support or feedback.
+
 
 ### Complexity
-Comparative paragraph explaining why one project seemed harder or easier technically.
+Discordo ranked as the least complex because it is a relatively lightweight terminal client with a smaller codebase and fewer interconnected systems. This makes it easier to understand the architecture and start contributing quickly. P5.js ranked in the middle because although it is approachable at the surface level, the underlying rendering engine, documentation tooling, and browser compatibility concerns introduce moderate complexity. Free Code Camp ranked as the most complex due to its very large full-stack codebase involving multiple services, databases, frontend frameworks, and learning platform infrastructure, making onboarding and navigation more challenging and it is not Windows compatible out of box.
 
 ### Activity
-Comparative paragraph explaining which projects are more active and why.
+Free Code Camp ranked highest in activity because it receives frequent commits, issue discussions, and feature updates. This level of activity indicates that the project is continuously evolving and maintained. Discordo ranked second since it is actively being developed but at a slower pace due to a smaller team and community. P5.js ranked lowest in activity relative to the others because while it is stable and maintained, its development pace is more focused on incremental improvements rather than constant large-scale updates.
 
 ### Approachability
-Comparative paragraph explaining which project is easiest for your team to enter and contribute to.
+Discordo ranked as the most approachable project because its smaller scope, clear installation process, and use of Go made it easier to build and run locally without extensive configuration. P5.js ranked second since it is beginner-friendly in concept and has strong documentation, but contributing to the core library may still require deeper understanding of JavaScript and browser environments. Free Code Camp ranked lowest in approachability because setting up the full development environment and understanding its architecture requires more time and prior experience with WSL (Windiws Subsystem for Linux).
 
 ### Appeal
-Comparative paragraph explaining which project your team is most excited about and why.
-
+P5.js ranked highest in appeal because it allows for creative contributions related to visual programming, animations, and interactive experiences, which aligns with the team’s interest in building engaging and expressive software. Discordo ranked second since working with Go and terminal-based interfaces presents an interesting technical learning opportunity. Free Code Camp ranked lowest in appeal not because it lacks value, but because its contributions are often more structured around educational content, platform maintenance, and large-scale infrastructure rather than creative or experimental development.
 ---
 
 ## Project Selection
@@ -111,17 +110,17 @@ Comparative paragraph explaining which project your team is most excited about a
 - **Project:** P5.js
 
 ### Rationale
-One paragraph explaining why your team chose it, including whether you weighted some dimensions more heavily than others.
+Our team ultimately chose P5.js because it provided the best balance between approachability, creativity, and meaningful contribution opportunities. While Free Code Camp had the strongest community and activity levels, its large and complex codebase made installation and setup more difficult within the limited time frame of the project. Discordo was very approachable technically, but its smaller scope and community meant fewer opportunities for impactful contributions and collaboration. P5.js stood out as a middle ground where the project is well-documented, widely used in education and creative coding, and still technically rich enough to allow us to learn modern JavaScript tooling and browser-based development. As a team, we weighted appeal and approachability slightly higher than community size and activity, since we believe motivation and ability to contribute effectively will lead to better overall outcomes and a stronger portfolio piece.
 
 ### Install Estimate
-- Estimated hours for all team members to get set up: **X hours**
+- Estimated hours for all team members to get set up: **1-2 hours**
 - Brief explanation of estimate.
 
 ### Knowledge Gaps
-- **Gap 1:** Brief explanation
-- **Gap 2:** Brief explanation
-- **Gap 3:** Brief explanation
+- **Gap 1:** Not too much experience with Javascript (Horacio). 
+- **Gap 2:** Not very familiar with this project (Luis)
+- **Gap 3:** Contributing to an Open Source for the first time.
 
 ### Concerns
-- **Concern 1:** Brief explanation
-- **Concern 2:** Brief explanation
+- **Concern 1:** Finding first issues since there is not "first issue" label.
+- **Concern 2:** Testing with a local version of p5. 
