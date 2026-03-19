@@ -2,14 +2,14 @@
 
 ## Team Members
 - **Aleena Graveline**
-  Responsible for:
-  - Blender install spike
-  - Ranking table write up
-  - Project selection write up
+  - Responsible for:
+    - Blender install spike
+    - Ranking table write up
+    - Project selection write up
 - **Max Riat**
-  Responsible for:
-  - VSCode install spike
-  - Godot install spike
+  - Responsible for:
+    - VSCode install spike
+    - Godot install spike
 
 ## Meeting Times
 - Thursdays @ 4:30pm
