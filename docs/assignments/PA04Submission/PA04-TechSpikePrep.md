@@ -31,9 +31,17 @@ Luis:
   - Collect as much information as possible about the key technologies, languages, frameworks, tools, etc. that are used by the project.  Some of this information has been collected in past assignments. Copy that information here, while also doing additional digging into the project documentation to ensure that all of the critical elements have been identified.
   - Be sure to use the project community here as well.  Search the appropriate communication channels for questions and posts that may provide insights.
   - Prioritize the items that have been found by how important they will be to becoming contributing members of the project's community.
+
+Our goal is to contribute to an open source project in meaningful ways while also understanding other codebases.
+
+We don't really have a specific framework we want to contribute to, we mainly know JavaScript and Java, and found P5Js is a project that is both welcoming and allows us to contribute.
+
 - **Our Gaps:** The goal of this section is to identify the differences between the team's current situation and its goals.
   - Compare the knowledge and skills of the team members to those items identified as necessary for the project. Identify specific knowledge and skill gaps that exist in the team.  These should focus on the highest priority goals first.
   - Be sure to identify both team gaps (an area where no one has the skill or knowledge) and individual gaps.
+
+We don't think there. are any big differences between current situation and its goals
+
 - **Our Plan:** Finally, in this section the team will form a plan to narrow the gaps that have been identified.
   - Use the information gathered above to assign specific team members to address specific knowledge and/or skill gaps. Do not specify how the learning will occur here (that's next). However, it must be clear which gaps each team member will be addressing.
     - Use your team members' strengths, weaknesses and interests to inform your decisions of who will learn what.
