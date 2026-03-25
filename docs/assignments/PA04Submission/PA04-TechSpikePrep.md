@@ -24,15 +24,15 @@ Work as a team, involving every team member in the discussion, to complete a gap
   - Identify the specific strengths, weaknesses and interests of each team member. Do this with respect to both the knowledge and skills identified above as well as any other potentially relevant knowledge and skills that may help the team (e.g. organization, management, writing, testing, documentation, etc...).
 - **Strengths**
 Paul: Javascript, Typescript, Java, HTML, CSS, React, Angular.
-Horacio: 
+Horacio: Javascript, Java, C#, Git.
 Luis: Javascript, Typescript, Java, HTML, CSS, React
 - **Weaknesses**
 Paul:
-Horacio:
+Horacio: Setting up unit tests. WebGL
 Luis: Knowledge of WebGL
 - **Interests**
 Paul:
-Horacio:
+Horacio: 
 Luis: How they utilize unit testing
 - **Our Goals:** The point is this section is to identify the knowledge and skills with key technologies, languages, frameworks, testing, tools, etc. that the team will need to have in order to becoming contributing members of the project's community.
   - Understand the overall structure of p5.js codebase
