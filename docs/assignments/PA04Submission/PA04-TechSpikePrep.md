@@ -22,15 +22,23 @@ Work as a team, involving every team member in the discussion, to complete a gap
 - **Our Current Situation:** The point in this section is to identify the current knowledge and skill sets of the team's members, as well as their strengths, weaknesses and interests.
   - Identify the relevant knowledge and skill set that is possessed by each team member. While the team members likely share a common set of courses, each will also have different knowledge and skills based on past experience, outside projects, internships, etc.
   - Identify the specific strengths, weaknesses and interests of each team member. Do this with respect to both the knowledge and skills identified above as well as any other potentially relevant knowledge and skills that may help the team (e.g. organization, management, writing, testing, documentation, etc...).
-
+- **Strengths**
 Paul: Javascript, Typescript, Java, HTML, CSS, React, Angular.
 Horacio: 
-Luis: 
-
+Luis: Javascript, Typescript, Java, HTML, CSS, React
+- **Weaknesses**
+Paul:
+Horacio:
+Luis: Knowledge of WebGL
+- **Interests**
+Paul:
+Horacio:
+Luis: How they utilize unit testing
 - **Our Goals:** The point is this section is to identify the knowledge and skills with key technologies, languages, frameworks, testing, tools, etc. that the team will need to have in order to becoming contributing members of the project's community.
-  - Collect as much information as possible about the key technologies, languages, frameworks, tools, etc. that are used by the project.  Some of this information has been collected in past assignments. Copy that information here, while also doing additional digging into the project documentation to ensure that all of the critical elements have been identified.
-  - Be sure to use the project community here as well.  Search the appropriate communication channels for questions and posts that may provide insights.
-  - Prioritize the items that have been found by how important they will be to becoming contributing members of the project's community.
+  - Understand the overall structure of p5.js codebase
+  - Learning the open-source contribution workflow
+  - Become more comfortable reading and understanding large, unfamiliar JavaScript codebases
+  - Learn how to run p5.js locally and test changes
 
 Our goal is to contribute to an open source project in meaningful ways while also understanding other codebases.
 
