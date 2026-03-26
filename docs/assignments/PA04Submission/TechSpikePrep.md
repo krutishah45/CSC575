@@ -11,10 +11,10 @@
 - Interests: WebGL, rendering pipelines
 
 #### Team Member: Luis
-- Skills:
-- Strengths:
-- Weaknesses:
-- Interests:
+- Skills: JavaScript, TypeScript, Git
+- Strengths: Front end development
+- Weaknesses: WebGL
+- Interests: Graphics
 
 #### Team Member: Paul
 - Skills:
@@ -43,7 +43,7 @@ Individual gaps:
 
 Horacio:
 
-Luis:
+Luis: Unit testing frameworks, graphics programming
 
 Paul:
 
