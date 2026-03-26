@@ -36,16 +36,16 @@ Priority:
 ### Our Gaps
 
 Team gaps:
-
+- Web Audio APIs
 
 
 Individual gaps:
 
-Horacio:
+Horacio: Audio and rendering frameworks. Node.js.
 
 Luis: Unit testing frameworks, graphics programming
 
-Paul:
+Paul: Web Audio APIs, Unit testing frameworks.
 
 ---
 
