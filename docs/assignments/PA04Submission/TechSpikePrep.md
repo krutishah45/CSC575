@@ -65,15 +65,11 @@ Priority:
   - Understand how p5 switches between 2D and WEBGL
   - Document rendering flow
 
-- **Paul → Unit Testing (Mocha)**
+- **Paul &  Luis → Unit Testing (Mocha)**
   - Run `npm test`
   - Analyze existing tests in `/test`
   - Create a simple test for a p5 function
 
-- **Luis → GitHub Workflow + Contribution Simulation**
-  - Fork and clone p5.js repo
-  - Create branch, commit change, simulate PR
-  - Document contribution process
 
 ---
 
@@ -93,11 +89,6 @@ Priority:
 
 ---
 
-### Gap: GitHub Contribution Workflow
-- https://docs.github.com/en/get-started/quickstart/contributing-to-projects
-- p5 contributing guide: https://github.com/processing/p5.js/blob/main/contributor_docs/README.md
-
----
 
 ## Planned Spike Artifacts
 
