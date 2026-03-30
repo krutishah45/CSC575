@@ -17,10 +17,10 @@
 - Interests: Graphics
 
 #### Team Member: Paul
-- Skills: 
-- Strengths: 
-- Weaknesses: 
-- Interests:
+- Skills: JavaSript, TypeScript
+- Strengths: Frontend development
+- Weaknesses: Unit Tests
+- Interests: Software Development
 ---
 
 ### Our Goals
@@ -54,7 +54,7 @@ Priority:
 - Graphics programming
 
 **Paul:**  
-
+- Unit testing frameworks (Mocha)
 
 ---
 
