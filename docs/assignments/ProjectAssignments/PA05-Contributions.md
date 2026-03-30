@@ -66,7 +66,7 @@ Your recorded demonstration must clearly perform each of the following steps whi
 6. Build and run the program from the feature branch.
 7. Demonstrate the change.
 
-Share your recording with the instructor in Teams before the assignment due date.
+Present your recording in PP2.
 
 ---
 
