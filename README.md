@@ -45,3 +45,6 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 8. [Aseprite](https://github.com/aseprite/aseprite)
 - A 2D pixel art and animation editor
 - Looks like a super fun opportunity to learn more about C++ through pixel art
+
+# Project Documents
+[CONTRIBUTING.md](PA5\PA05-Contributions.md)
