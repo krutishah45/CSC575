@@ -43,19 +43,24 @@
 ## Paul:
 ### 4-12 Iteration 1: [main & 2.0] Side navigation dropdown arrows in both panels should have 27.5px top padding #1295 (5 hr 45 min), Reached out to P5 JS discord for any problems
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1295)
-- [Pull Request]()
+- Wasn't formally approved so no PR [yet]
 - Screen Shots: 
 - Time Spent: (5 hr 45 m)
 
-Briefly hopped onto another issue
-(Improve readability and visual hierarchy of documentation/tutorial headings  #1327)
+#### (Improve readability and visual hierarchy of documentation/tutorial headings  #1327)
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1327)
-- [Pull Request]()
+- Wasn't formally approved so no PR [yet]
 - Screen Shots: 
 - Time Spent: (38 m)
   
+#### (feat: no way to test local docs build of p5.sound.js on the reference page #1224)
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1327)
+- Wasn't formally approved so no PR [yet]
+- Screen Shots: 
+- Time Spent: (1h 24 min)
+  
 ---
-### x-xx Iteration 2: Video Creation
+### x-xx Iteration 2: Video Tutorial for setting up P5.js
 - No issue link
 - [Pull Request]()
 - Screen Shots: 
