@@ -18,8 +18,8 @@
 ---
 ### 4-20 Iteration 2: Update translations for getting-started-with-nodejs.mdx #1208 
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1208)
-- [Pull Request]()
-- Screen Shots: 
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1369)
+- Screen Shots: [Before (English)](PA05ScreenShots/getting-started-with-nodejs-before.png) [After (Spanish)](PA05ScreenShots/getting-started-with-nodejs-after.png)
 - Time Spent: (3h 8 min)
 
 ---
@@ -27,7 +27,7 @@
 ### 4-25 Iteration 3: Update Variables-and-change.mdx #1175 
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1175)
 - [Pull Request]()
-- Screen Shots: 
+- Screen Shots: [Before (English)](PA05ScreenShots/variables-and-change-before.png) [After (Spanish)](PA05ScreenShots/variables-and-change-after.png)
 - Time Spent: (5h 3 min)
 
 ---
@@ -35,7 +35,7 @@
 ### 4-26 Iteration 4: Update translations for setting-up-your-environment.mdx #1334
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1334)
 - [Pull Request]()
-- Screen Shots: 
+- Screen Shots: [Before (English)](PA05ScreenShots/setting-up-your-environment-before.png) [After (Spanish)](PA05ScreenShots/setting-up-your-environment-after.png)
 - Time Spent: (5h 5 min)
 
 
