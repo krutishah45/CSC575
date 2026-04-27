@@ -23,18 +23,21 @@
 - Time Spent: (3h 8 min)
 
 ---
-### x-xx Iteration 3: Update translations for setting-up-your-environment.mdx #1334
-- [Issue Link](https://github.com/processing/p5.js-website/issues/1334)
-- [Pull Request]()
-- Screen Shots: 
-- Time Spent: ()
 
----
-### x-xx Iteration 4: Update Variables-and-change.mdx #1175 
+### 4-25 Iteration 3: Update Variables-and-change.mdx #1175 
 - [Issue Link](https://github.com/processing/p5.js-website/issues/1175)
 - [Pull Request]()
 - Screen Shots: 
-- Time Spent: ()
+- Time Spent: (5h 3 min)
+
+---
+
+### 4-26 Iteration 4: Update translations for setting-up-your-environment.mdx #1334
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1334)
+- [Pull Request]()
+- Screen Shots: 
+- Time Spent: (5h 5 min)
+
 
 ---
 - Total Time Spent for Final Presentation:
