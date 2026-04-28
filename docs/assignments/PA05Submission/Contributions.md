@@ -40,7 +40,7 @@
 
 
 ---
-- Total Time Spent for Final Presentation:
+- Total Time Spent for Final Presentation: 13h 16 min
 
 ---
 ## Paul:
