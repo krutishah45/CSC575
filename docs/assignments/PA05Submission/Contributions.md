@@ -3,7 +3,43 @@
 - [P5js-Website GitHub](https://github.com/processing/p5.js-website)
 ---
 
-## Luis:
+## Luis: [GitHub Fork](https://github.com/lgilbuena/p5.js-website)
+### Sprint 1: [main & 2.0] The left and right margins should match the column gutter width 40px #1297 
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1297)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1312)
+- Time Spent: (2 hrs)
+  
+---
+### Sprint 2: Programmatically found broken internal links #527
+- [Issue Link](https://github.com/processing/p5.js-website/issues/527)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1330)
+- Time Spent: (2 hr)
+
+---
+### Sprint 3: broken links on 2.0 page #1353
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1353)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1355)
+- Time Spent: (30 mins)
+
+---
+### Sprint 3:
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1353)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1358)
+- Time Spent: (30 mins)
+
+---
+### Sprint 3:
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1353)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1361)
+- Time Spent: (5 hours)
+
+---
+### Sprint 3:
+- [Issue Link](https://github.com/processing/p5.js-website/issues/1353)
+- [Pull Request](https://github.com/processing/p5.js-website/pull/1363)
+- Time Spent: (5 hours)
+
+---
 
 ## Horacio: [GitHub Fork](https://github.com/horavaldesg/p5.js-website)
 ### 4-12 Iteration 1: Update translations for simple-melody-app.mdx #1210
