@@ -99,18 +99,18 @@
 - Time Spent: (1h 24 min)
   
 ---
-### x-xx Iteration 2: Video Tutorial for setting up P5.js
+### 4-20 Iteration 2: Video Tutorial for setting up P5.js
 - No issue link
 - [Pull Request]()
 - Screen Shots: 
 - Time Spent: (6 hr)
 
 ---
-### x-xx Iteration 3:
+### 4-27 Iteration 3: Video Tutorial for setting up P5.js
 - [Issue Link]()
 - [Pull Request]()
 - Screen Shots: 
-- Time Spent: ()
+- Time Spent: (13 hr)
 
 ---
 ### x-xx Iteration 4:
